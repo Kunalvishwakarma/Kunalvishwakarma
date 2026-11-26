@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Kunal Vishwakarma — Infrastructure Architecture and Transformation</title>
+  <desc id="desc">Dark navy and blue technical banner for an enterprise infrastructure professional.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071426"/><stop offset="1" stop-color="#101f3c"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#93c5fd" stroke-opacity=".09" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <path d="M0 260H1200" stroke="#38bdf8" stroke-opacity=".22"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2.5" opacity=".85">
+    <rect x="930" y="72" width="74" height="52" rx="8"/><rect x="1050" y="72" width="74" height="52" rx="8"/>
+    <rect x="990" y="188" width="74" height="52" rx="8"/>
+    <path d="M1004 98H1050M1087 124V154H1027V188M967 124V154H1027"/>
+    <circle cx="1027" cy="154" r="5" fill="#38bdf8" stroke="none"/>
+    <path d="M950 88h34M950 99h34M1070 88h34M1070 99h34M1010 204h34M1010 215h34" stroke="#93c5fd"/>
+  </g>
+  <g fill="#93c5fd" opacity=".5"><circle cx="875" cy="70" r="3"/><circle cx="1150" cy="160" r="3"/><circle cx="900" cy="238" r="3"/></g>
+  <text x="72" y="112" fill="#7dd3fc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">ENTERPRISE TECHNOLOGY • NORWAY</text>
+  <text x="70" y="178" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Kunal Vishwakarma</text>
+  <text x="74" y="220" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="22">Infrastructure Architecture · Datacenter Transformation · Cloud &amp; Cybersecurity</text>
+  <rect x="72" y="252" width="176" height="4" rx="2" fill="url(#accent)"/>
+  <text x="270" y="260" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="15">DESIGN  /  TRANSFORM  /  SECURE  /  DELIVER</text>
+</svg>
